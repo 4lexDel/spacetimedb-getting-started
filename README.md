@@ -25,8 +25,8 @@ spacetime sql quickstart-chat "SELECT * FROM message"
 ```
 
 ## Create client
+Tutorial: https://spacetimedb.com/docs/sdks/typescript/quickstart  
 Repository [here](https://github.com/clockworklabs/spacetimedb-typescript-sdk/tree/main/examples/quickstart-chat)  
-
 ```bash
 npm create vite@latest client -- --template react-ts
 cd client
